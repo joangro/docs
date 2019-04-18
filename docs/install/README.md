@@ -97,7 +97,7 @@ custom install guide:
 > **Note**: If need to set up a Kubernetes cluster with the correct
 > specifications to run Knative, you can follow any of the install instructions
 > through the creation of the cluster, then follow the
-> [Performing a Custom Knative Installation](./knative-custom-install.md) guide.
+> [Performing a Custom Knative Installation](./Knative-custom-install.md) guide.
 
 **Observability install guide**
 
